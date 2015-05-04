@@ -1,2 +1,2 @@
 # python3-gcm
-send gcm push notifications by using python3
+Simplist sample for sending gcm push notifications by using python3
